@@ -3,7 +3,7 @@
 Bar
 ===
 
-A tiny package that is used in the `Mys`_ tutorial.
+A tiny package that is used in the `Mys tutorial`_.
 
 Examples
 ========
@@ -18,4 +18,4 @@ Examples
 .. |buildstatus| image:: https://travis-ci.com/eerimoq/mys-bar.svg?branch=master
 .. _buildstatus: https://travis-ci.com/eerimoq/mys-bar
 
-.. _Mys: https://github.com/eerimoq/mys
+.. _Mys tutorial: https://github.com/eerimoq/mys#tutorial
