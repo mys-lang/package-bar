@@ -1,9 +1,7 @@
-|buildstatus|_
-
 Bar
 ===
 
-A tiny package that is used in the `Mys tutorial`_.
+A tiny package that is used in the `Mys getting started tutorial`_.
 
 Examples
 ========
@@ -15,7 +13,4 @@ Examples
    def main():
        hello('Mys')
 
-.. |buildstatus| image:: https://travis-ci.com/eerimoq/mys-bar.svg?branch=master
-.. _buildstatus: https://travis-ci.com/eerimoq/mys-bar
-
-.. _Mys tutorial: https://github.com/eerimoq/mys#tutorial
+.. _Mys getting started tutorial: https://mys.readthedocs.io/en/latest/user-guide/getting-started.html
