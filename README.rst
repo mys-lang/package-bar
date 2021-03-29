@@ -13,4 +13,4 @@ Examples
    def main():
        hello('Mys')
 
-.. _Mys getting started tutorial: https://mys.readthedocs.io/en/latest/user-guide/getting-started.html
+.. _Mys getting started tutorial: https://mys-lang.org/user-guide/getting-started.html
